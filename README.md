@@ -1,4 +1,4 @@
-![logo](https://github.com/praveenkumarrawat/praveenkumarrawat/blob/main/45daysofcode.png)
+
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar Rawat</h1>
 <h3 align="center">A passionate about coding and technology</h3>
